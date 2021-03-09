@@ -1,5 +1,7 @@
 # my-windows-scripts
 
+Just my personal scripts :v
+
 # sudo.cmd
 Used for starting an app as administrator
 
